@@ -54,13 +54,13 @@ NesHouse is a front-end project built on Agora, LeanCloud service, using Alpine.
 ### Configuration file description
 
 **js/config.js**
-```js
+js
 const AVAPPID = "" // LeanCloud AppID
 const AVAPPKEY = "" // LeanCloud AppKey
 const BASEURL = "" // The path where the final page is located, the generated share link will be generated based on this address
 const DEFAULT_TEXT = "Please contact <a href='mailto:bestony@linux.com'>bestony@linux.com</a> to Learn more" // Text displayed at the top of the page
 const AGORAAPPID = "" // AppID for Agora
-```
+
 
 ## Contribute to the project
 
